@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kisan Bandhu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Kisaan Bandhu</string>
+    <string name="set_up">Set Up</string>
+    <string name="irrigator_settings">Irrigate</string>
+    <string name="how">How to Use</string>
+    <string name="title_activity_irrigator__settings">Irrigator_Settings</string>
+    <string name="hours">No of hours per day</string>
+    <string name="time">Time</string>
+    <string name="send">Send</string>
+    <string name="phbox"></string>
+    <string name="setbtn">SET</string>
+    <string name="title_activity_tips">Tips</string>
+    <string name="tips">TIPS</string>
+    <string name="title_activity_how_too_use">HowTooUse</string>
+    <string name="title_activity_how_to_use">HowToUse</string>
+    <string name="howtouse">How To Use</string>
+    <string name="enterph">Enter Phone Number of Irrigator</string>
+    <string name="howweuse">Select once in how many hours you want to water \n\nSelect for each line, for how much time you want to water \n\nJust press SEND, and its done!</string>
+    <string name="title_activity_set_up">SetUp</string>
+
+</resources>
